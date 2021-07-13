@@ -30,6 +30,8 @@ mySpriteSheet = Spritesheet('res/roguelikeChar_transparent.png')
 playerSprite = [mySpriteSheet.parse_sprite("player_bare_standing",playerScale)]
 spriteIndex = 0
 
+#TODO: create player class
+
 
 #endregion #########################################################################
 
